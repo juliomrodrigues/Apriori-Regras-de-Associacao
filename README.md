@@ -1,2 +1,2 @@
 # Apriori-Regras-de-Associacao
-Criando Regras de Associação para compras de um SuperMercado 🍎🍞🍇
+Criando Regras de Associação para compras de um Super Mercado. 🍎🍞🍇
